@@ -1,4 +1,4 @@
-# 🎙️ Voice-Powered Interview Chatbot (AI Voice Bot)
+# 🎙️ Voice Chatbot (AI Voice Bot)
 
 A smart, interactive voice-based chatbot that simulates interview-style conversations. It supports **voice input** and delivers **voice output** responses using AI models like **OpenAI GPT**.
 
