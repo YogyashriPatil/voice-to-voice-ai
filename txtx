@@ -1,0 +1,7 @@
+1. python3 -m venv venv
+2. go to env 
+
+3. how to get mic access of user
+
+4. install for speech  
+pip install SpeechRecognition

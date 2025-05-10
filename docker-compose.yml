@@ -1,0 +1,16 @@
+services:
+  mongodb:
+    image: mongo
+    restart: always
+
+    ports:
+      - '27017:27017'
+
+    environment:
+      MONGO_INITDB_PORT_USERNAME:
+      MONGO_INITDB_PORT_PASSWORD:
+
+    volumes:
+      - mongodb_data_v:/data/db
+volumes:
+  mongodb_data_v:
